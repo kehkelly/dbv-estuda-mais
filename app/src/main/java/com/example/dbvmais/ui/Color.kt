@@ -1,4 +1,4 @@
-package com.example.dbvmais.ui.theme
+package com.example.dbvmais.ui
 
 import androidx.compose.ui.graphics.Color
 
